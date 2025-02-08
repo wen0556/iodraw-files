@@ -67,9 +67,6 @@
         <mxCell id="yl8xWjTiA1o55yqc9U2W-20" value="传播与接受分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3819" y="589" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-21" value="英国汉学家" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2574" y="696" width="140" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-23" value="翻译选材与译介策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2954" y="696" width="205" height="49" as="geometry" />
         </mxCell>
@@ -219,13 +216,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3905" y="564" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-18" target="yl8xWjTiA1o55yqc9U2W-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2644" y="662" />
             </Array>
           </mxGeometry>
         </mxCell>
