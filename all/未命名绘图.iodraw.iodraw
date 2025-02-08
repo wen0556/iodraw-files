@@ -249,6 +249,37 @@
         <mxCell id="yl8xWjTiA1o55yqc9U2W-371" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="785" y="1069" width="60" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-382" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="598" y="1190" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-383" value="跨文化传播策略优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327" y="1289" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-384" value="译介实践指导" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="582" y="1289" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-385" value="国家形象建构协同机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="788" y="1289" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-386" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-382" target="yl8xWjTiA1o55yqc9U2W-383">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="429" y="1264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-387" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-382" target="yl8xWjTiA1o55yqc9U2W-384">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-388" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-382" target="yl8xWjTiA1o55yqc9U2W-385">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="898" y="1264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
