@@ -4,9 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-117" value="研究背景" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="453" y="20" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-119" value="学术背景" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="715" y="119" width="124" height="49" as="geometry" />
         </mxCell>
@@ -18,21 +15,6 @@
         </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-123" value="跨文化传播与形象构建探讨不够系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="798" y="217" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-124" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-117">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="229" y="94" />
-            </Array>
-            <mxPoint x="229" y="119" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-117" target="yl8xWjTiA1o55yqc9U2W-119">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="777" y="94" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yl8xWjTiA1o55yqc9U2W-121">
           <mxGeometry relative="1" as="geometry">
