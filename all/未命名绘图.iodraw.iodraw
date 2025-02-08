@@ -55,7 +55,7 @@
         <mxCell id="yl8xWjTiA1o55yqc9U2W-16" value="翻译策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2399" y="696" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-17" value="案例分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-17" value="案例研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3248" y="490" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-18" value="案例选取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-31" value="国家形象建构协同机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4685" y="589" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-32" value="研究成果推广与学术交流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4208" y="696" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-0" target="yl8xWjTiA1o55yqc9U2W-1">
           <mxGeometry relative="1" as="geometry">
@@ -216,6 +219,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2834" y="662" />
+            </Array>
+            <mxPoint x="2834" y="696" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-19" target="yl8xWjTiA1o55yqc9U2W-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -266,6 +277,11 @@
             <Array as="points">
               <mxPoint x="4795" y="564" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-29" target="yl8xWjTiA1o55yqc9U2W-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
