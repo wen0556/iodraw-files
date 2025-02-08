@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1670" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2497" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1153,6 +1153,240 @@
         </mxCell>
         <mxCell id="OKzw-zpPXWrBQdYGVoEF-186" value="案例选取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1385.005" y="744" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-187" value="案例研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="963.9325000000001" y="820" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-188" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-187" target="OKzw-zpPXWrBQdYGVoEF-225" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1025.9325000000001" y="864" />
+              <mxPoint x="1025.9325000000001" y="879" />
+              <mxPoint x="386.9950000000001" y="879" />
+              <mxPoint x="386.9950000000001" y="884" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-189" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OKzw-zpPXWrBQdYGVoEF-188">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-190" value="个案文本分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="956.7450000000001" y="889" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-191" value="翻译选材与译介策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="711.9950000000001" y="958" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-192" value="英国汉学家" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="111.99500000000012" y="958" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-193" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-225" target="OKzw-zpPXWrBQdYGVoEF-192" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="386.9950000000001" y="933" />
+              <mxPoint x="386.9950000000001" y="948" />
+              <mxPoint x="181.99500000000012" y="948" />
+              <mxPoint x="181.99500000000012" y="953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-194" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-225" target="OKzw-zpPXWrBQdYGVoEF-203" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="386.9950000000001" y="933" />
+              <mxPoint x="386.9950000000001" y="948" />
+              <mxPoint x="591.9950000000001" y="948" />
+              <mxPoint x="591.9950000000001" y="953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-195" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-192" target="OKzw-zpPXWrBQdYGVoEF-199" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="181.99500000000012" y="1002" />
+              <mxPoint x="181.99500000000012" y="1017" />
+              <mxPoint x="53.99500000000012" y="1017" />
+              <mxPoint x="53.99500000000012" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-196" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-192" target="OKzw-zpPXWrBQdYGVoEF-198" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="181.99500000000012" y="1002" />
+              <mxPoint x="181.99500000000012" y="1017" />
+              <mxPoint x="309.9950000000001" y="1017" />
+              <mxPoint x="309.9950000000001" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-197" value="施高德" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="127.99500000000012" y="1027" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-198" value="杜威廉" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255.99500000000012" y="1027" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-199" value="熊式一" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-0.004999999999881766" y="1027" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-200" value="艾克顿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="413.9950000000001" y="1027" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-201" value="柯润璿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="541.9950000000001" y="1027" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-202" value="白之" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="669.9950000000001" y="1027" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-203" value="美国汉学家" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="521.9950000000001" y="958" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-204" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-203" target="OKzw-zpPXWrBQdYGVoEF-202" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="591.9950000000001" y="1002" />
+              <mxPoint x="591.9950000000001" y="1017" />
+              <mxPoint x="595.9950000000001" y="1017" />
+              <mxPoint x="715.9950000000001" y="1017" />
+              <mxPoint x="715.9950000000001" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-205" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-203" target="OKzw-zpPXWrBQdYGVoEF-200" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="591.9950000000001" y="1002" />
+              <mxPoint x="591.9950000000001" y="1017" />
+              <mxPoint x="467.9950000000001" y="1017" />
+              <mxPoint x="467.9950000000001" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-206" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-190" target="OKzw-zpPXWrBQdYGVoEF-191" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1034.7450000000001" y="933" />
+              <mxPoint x="1034.7450000000001" y="948" />
+              <mxPoint x="814.4950000000001" y="948" />
+              <mxPoint x="814.4950000000001" y="953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-207" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-190" target="OKzw-zpPXWrBQdYGVoEF-210" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1034.7450000000001" y="933" />
+              <mxPoint x="1034.7450000000001" y="948" />
+              <mxPoint x="1038.9950000000001" y="948" />
+              <mxPoint x="1254.9950000000001" y="948" />
+              <mxPoint x="1254.9950000000001" y="953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-208" value="文本风格及语言特点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="936.9950000000001" y="958" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-209" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-187" target="OKzw-zpPXWrBQdYGVoEF-217" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1025.9325000000001" y="864" />
+              <mxPoint x="1025.9325000000001" y="879" />
+              <mxPoint x="1034.7450000000001" y="879" />
+              <mxPoint x="1664.8700000000001" y="879" />
+              <mxPoint x="1664.8700000000001" y="884" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-210" value="副文本中形象阐释" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160.9950000000001" y="958" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-211" value="学术" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1317.4950000000001" y="1027" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-212" value="大众" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1430.4950000000001" y="1027" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-213" value="舞台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1543.4950000000001" y="1027" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-214" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-216" target="OKzw-zpPXWrBQdYGVoEF-211" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1476.9950000000001" y="1002" />
+              <mxPoint x="1476.9950000000001" y="1017" />
+              <mxPoint x="1363.9950000000001" y="1017" />
+              <mxPoint x="1363.9950000000001" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-215" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-216" target="OKzw-zpPXWrBQdYGVoEF-213" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1476.9950000000001" y="1002" />
+              <mxPoint x="1476.9950000000001" y="1017" />
+              <mxPoint x="1589.9950000000001" y="1017" />
+              <mxPoint x="1589.9950000000001" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-216" value="译介传播路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1398.9950000000001" y="958" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-217" value="传播与接受分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1578.8700000000001" y="889" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-218" value="目标文化语境下的接受机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1726.7450000000001" y="958" width="252" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-219" value="学术界评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1686.4950000000001" y="1027" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-220" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-217" target="OKzw-zpPXWrBQdYGVoEF-216" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1664.8700000000001" y="933" />
+              <mxPoint x="1664.8700000000001" y="948" />
+              <mxPoint x="1476.9950000000001" y="948" />
+              <mxPoint x="1476.9950000000001" y="953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-221" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-217" target="OKzw-zpPXWrBQdYGVoEF-218" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1664.8700000000001" y="933" />
+              <mxPoint x="1664.8700000000001" y="948" />
+              <mxPoint x="1852.7450000000001" y="948" />
+              <mxPoint x="1852.7450000000001" y="953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-222" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-218" target="OKzw-zpPXWrBQdYGVoEF-219" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1852.7450000000001" y="1002" />
+              <mxPoint x="1852.7450000000001" y="1017" />
+              <mxPoint x="1756.4950000000001" y="1017" />
+              <mxPoint x="1756.4950000000001" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-223" value="媒体报道及公众反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1846.4950000000001" y="1027" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-224" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="OKzw-zpPXWrBQdYGVoEF-218" target="OKzw-zpPXWrBQdYGVoEF-223" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1852.7450000000001" y="1002" />
+              <mxPoint x="1852.7450000000001" y="1017" />
+              <mxPoint x="1948.9950000000001" y="1017" />
+              <mxPoint x="1948.9950000000001" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-225" value="案例选取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="324.9950000000001" y="889" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
