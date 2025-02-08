@@ -7,9 +7,6 @@
         <mxCell id="yl8xWjTiA1o55yqc9U2W-119" value="学术背景" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="715" y="119" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-123" value="跨文化传播与形象构建探讨不够系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="798" y="217" width="253" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-119">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -18,11 +15,12 @@
             <mxPoint x="630" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-129" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-119" target="yl8xWjTiA1o55yqc9U2W-123">
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-129" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-119">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="924" y="192" />
             </Array>
+            <mxPoint x="924.5" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-130" value="研究背景" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
