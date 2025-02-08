@@ -418,17 +418,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OKzw-zpPXWrBQdYGVoEF-86" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OKzw-zpPXWrBQdYGVoEF-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1912.625" y="202" />
-              <mxPoint x="1912.625" y="217" />
-              <mxPoint x="1788.625" y="217" />
-              <mxPoint x="1788.625" y="222" />
-            </Array>
-            <mxPoint x="1788.6666666666665" y="227" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OKzw-zpPXWrBQdYGVoEF-87" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OKzw-zpPXWrBQdYGVoEF-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -438,18 +427,6 @@
               <mxPoint x="1916.625" y="222" />
             </Array>
             <mxPoint x="1916.6666666666665" y="227" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OKzw-zpPXWrBQdYGVoEF-88" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OKzw-zpPXWrBQdYGVoEF-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1912.625" y="202" />
-              <mxPoint x="1912.625" y="217" />
-              <mxPoint x="1916.625" y="217" />
-              <mxPoint x="2036.625" y="217" />
-              <mxPoint x="2036.625" y="222" />
-            </Array>
-            <mxPoint x="2036.6666666666665" y="227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OKzw-zpPXWrBQdYGVoEF-89" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OKzw-zpPXWrBQdYGVoEF-26" target="OKzw-zpPXWrBQdYGVoEF-36">
