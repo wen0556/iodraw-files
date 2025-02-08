@@ -94,9 +94,6 @@
         <mxCell id="yl8xWjTiA1o55yqc9U2W-31" value="国家形象建构协同机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4685" y="589" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-32" value="研究成果推广与学术交流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4208" y="696" width="237" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="yl8xWjTiA1o55yqc9U2W-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-0" target="yl8xWjTiA1o55yqc9U2W-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -271,9 +268,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yl8xWjTiA1o55yqc9U2W-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-29" target="yl8xWjTiA1o55yqc9U2W-32">
+        <mxCell id="yl8xWjTiA1o55yqc9U2W-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yl8xWjTiA1o55yqc9U2W-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="4326.5" y="696" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
