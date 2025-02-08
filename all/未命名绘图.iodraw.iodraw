@@ -418,38 +418,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OKzw-zpPXWrBQdYGVoEF-83" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OKzw-zpPXWrBQdYGVoEF-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1502.625" y="202" />
-              <mxPoint x="1502.625" y="217" />
-              <mxPoint x="1374.625" y="217" />
-              <mxPoint x="1374.625" y="222" />
-            </Array>
-            <mxPoint x="1374.6666666666665" y="227" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OKzw-zpPXWrBQdYGVoEF-84" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OKzw-zpPXWrBQdYGVoEF-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1502.625" y="202" />
-              <mxPoint x="1502.625" y="217" />
-              <mxPoint x="1502.625" y="222" />
-            </Array>
-            <mxPoint x="1502.666666666667" y="227" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OKzw-zpPXWrBQdYGVoEF-85" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OKzw-zpPXWrBQdYGVoEF-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1502.625" y="202" />
-              <mxPoint x="1502.625" y="217" />
-              <mxPoint x="1630.625" y="217" />
-              <mxPoint x="1630.625" y="222" />
-            </Array>
-            <mxPoint x="1630.6666666666665" y="227" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OKzw-zpPXWrBQdYGVoEF-86" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OKzw-zpPXWrBQdYGVoEF-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
