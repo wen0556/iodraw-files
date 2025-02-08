@@ -1388,6 +1388,16 @@
         <mxCell id="OKzw-zpPXWrBQdYGVoEF-225" value="案例选取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="324.9950000000001" y="889" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="OKzw-zpPXWrBQdYGVoEF-226" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.107;exitY=0.755;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OKzw-zpPXWrBQdYGVoEF-191" target="OKzw-zpPXWrBQdYGVoEF-210">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="734" y="933" />
+              <mxPoint x="1035" y="933" />
+              <mxPoint x="1035" y="948" />
+              <mxPoint x="1255" y="948" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
